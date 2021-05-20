@@ -1,8 +1,3 @@
-JavaScript project from the Codecademy Full Stack Curriculum
-
-
-main.js can be executed with Node 
-
 # Random Horoscope Generator
 
 This project was built as part of the Full Stack Curriculum on [CodeCademy](https://www.codecademy.com/learn).
